@@ -52,7 +52,7 @@ stow -R claude
 | 스킬 | 역할 | 호출 |
 |---|---|---|
 | `conventional-commit` | 커밋 메시지 작성 + 커밋 | `/conventional-commit` |
-| `summarize-changes` | 변경사항 요약 + 위험 감지 | `/summarize-changes\` |
+| `summarize-changes` | 변경사항 요약 + 위험 감지 | `/summarize-changes` |
 | `code-review` | 코드 구조/품질 깊이 점검 | `/code-review` |
 | `explain-code` | 코드 설명 + 구현 검증 | `/explain-code` |
 | `create-claude-md` | 프로젝트 CLAUDE.md 초안 생성 | `/create-claude-md` |
