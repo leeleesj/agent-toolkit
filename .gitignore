@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# 에디터 임시 파일
+*.swp
+*.swo
+
+# Claude Code 개인 설정 (민감 정보)
+claude/.claude/settings.json
+claude/.claude/settings.local.json
+
+# 세션 기록 (로컬 전용)
+claude/.claude/projects/
