@@ -12,3 +12,4 @@ claude/.claude/settings.local.json
 # 세션 기록 (로컬 전용)
 claude/.claude/projects/
 .stowrc
+.stowrc
